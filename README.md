@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Mantas
+-  I’m interested in learning how to code
+- I’m currently learning html,css,javascript and jquery
